@@ -16,3 +16,4 @@ Portability: Easily manipulate this template to use with other tables or sources
 Application Sample Output
 
 ![image](https://github.com/iDataGuy/Snowflake_Streamlit/assets/107080085/451bb4ac-9c6f-4543-b50d-802160cc8b2b)
+![image](https://github.com/iDataGuy/Snowflake_Streamlit/assets/107080085/8883d3c3-eacd-48a0-abce-c02ce6a0b98e)
