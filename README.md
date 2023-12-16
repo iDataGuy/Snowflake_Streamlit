@@ -1,4 +1,4 @@
-![image](https://github.com/iDataGuy/Snowflake_Streamlit/assets/107080085/889451d8-9309-4d39-b3a0-0c7ae6420528)# Snowflake_HealthCheck App
+# Snowflake_HealthCheck App
 Snowflake Streamlit Project References
 
 This post builds on the dashboard examples built using Snowsight but now utilizing new capabilities in Streamlit-in-Snowflake (SiS). In late September Snowflake announced support for SiS (here). SiS gives our customers the ability to create applications without the need for multiple languages. Snowflake customers can now use Python to create visualizations and utilize standard Snowflake security to share these apps with different roles. All content is housed within the secure walls of the Snowflake platform.
