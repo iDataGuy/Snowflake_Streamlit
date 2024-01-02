@@ -22,7 +22,6 @@ st.markdown("This app is developed to go off of the account usage schema in your
 st.markdown("https://docs.snowflake.com/en/sql-reference/account-usage#account-usage-views")
 
 #Info bar 
-#st.info('Developed by Nikhil Kolur & Ashish Patel on the Snowflake Sales Engineering Team. This is not a product of Snowflake please use at your own risk.', icon="ℹ️")
 st.divider()
 
 #############################################
